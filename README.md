@@ -2,6 +2,8 @@
 
 A React application that allows users to compare two text files and visualize the differences between them.
 
+🌐 **Live Demo**: [https://viciouskinid.github.io/DifferenceChecker/](https://viciouskinid.github.io/DifferenceChecker/)
+
 ## Features
 
 - **File Upload**: Upload text files directly from your computer
@@ -12,6 +14,7 @@ A React application that allows users to compare two text files and visualize th
   - ⚪ White: Unchanged lines
 - **Responsive Design**: Works on desktop and mobile devices
 - **Clear Interface**: Clean, modern UI for easy use
+- **Example Content**: Loads with Lorem Ipsum demo for immediate testing
 
 ## Getting Started
 
